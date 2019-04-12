@@ -1,7 +1,8 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: LMWTFY
+  # link: https://github.com/arranzropablo/lmwtfy
+  github: arranzropablo/lmwtfy
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Let me wiki that for you...
+  description: |
+    I did this project to learn some basic concepts of how to build an (swagger-documented) API with <mark>Go</mark>. 
+    I took advantage of this mini-project and learned a bit about <mark>Go modules</mark>, <mark>Docker</mark> and <mark>Google Cloud</mark>.
