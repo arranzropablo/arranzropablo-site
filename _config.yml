@@ -6,6 +6,7 @@ favicon: images/favicon.ico
 name: Pablo Arranz Ropero
 title: Backend developer
 email: arranzropablo@gmail.com
+phone: (+34) 651 099 840
 # website: www.github.com/sproogen/resume-theme
 
 # Social links
@@ -25,7 +26,9 @@ about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Pablo Arranz Ropero and I'm a junior backend developer @ Zooplus. 
+  
   Besides backend, I also enjoy learning about CI/CD and operational tools such as <mark>K8s</mark>, <mark>Docker</mark>, <mark>ELK</mark>... among others.
+  
   Although I barely started my career I consider myself a truly capable programmer led by my effort and my endless wish of knowledge.
 
   My best programming skill is <mark>Java</mark> and I'm currently interested on learning <mark>Go</mark>
@@ -42,14 +45,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  I also enjoy joining hackathon or programming contests such as Telecode 2018 and 2019 (https://telecode-etsit.com/), Google Hashcode 2018 (https://codingcompetitions.withgoogle.com/hashcode/) and Time2Hack Getafe Hackathon (http://www.time2hack.es/hackathon-getafe-2018.php)
+  
+  Alongside my interests in software development some of my other interests and hobbies are:
+   - Roller hockey and rugby
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
