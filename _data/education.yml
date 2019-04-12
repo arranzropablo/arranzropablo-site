@@ -1,5 +1,5 @@
 - name: Universidad Complutense de Madrid
-  dates: 2014 - 201
+  dates: 2014 - 2018
   qualification: Graduate in Software Engineering
   quote: >
     The biggest spanish presential university and one of the most importants and prestigious universities in Madrid.
@@ -7,7 +7,7 @@
     As final project I created a multi-platform application to facilitate biology students the learning of genetics (In collaboration with Biology School). This application had both server and client sides, one for the teacher to manage the content and the other for the pupils to make use of it.
 
 - name: Fundación Telefónica
-  dates: 2004 - 2009
+  dates: 2013
   qualification: Videogame Creation Course
   description: |
     Skate videogame creation learning the basic usage of tools such as Autodesk 3ds Max, Adobe Photoshop and Unity.
