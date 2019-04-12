@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  I also enjoy joining hackathon or programming contests such as Telecode 2018 and 2019 (https://telecode-etsit.com/), Google Hashcode 2018 (https://codingcompetitions.withgoogle.com/hashcode/) and Time2Hack Getafe Hackathon (http://www.time2hack.es/hackathon-getafe-2018.php)
+  I also enjoy joining hackathon or programming contests such as <a href="https://telecode-etsit.com">Telecode</a> 2018 and 2019, <a href="https://codingcompetitions.withgoogle.com/hashcode">Google Hashcode</a> 2018 and <a href="http://www.time2hack.es/hackathon-getafe-2018.php">Time2Hack Getafe Hackathon</a>2018
   
   Alongside my interests in software development some of my other interests and hobbies are:
    - Roller hockey and rugby
