@@ -11,7 +11,7 @@
 
     To name the most importants, because the list could be endless, these technologies are: 
     
-    <mark>Java 11</mark> and <mark>Scala</mark> using <mark>Actor model</mark>, <mark>Cucumber</mark> and <mark>Mockito</mark> to test our services, <mark>PostgreSQL</mark> and <mark>DynamoDB</mark> as databases, and <mark>Grafana</mark> and <mark>ELK Stack</mark> as monitoring systems.
+    <mark>Java 11</mark> and <mark>Scala</mark> in the back-end. We make our unit tests with <mark>Scalatest</mark> and <mark>JUnit</mark> with <mark>Mockito</mark>. We use <mark>Cucumber</mark> for our integration tests in the APIs and <mark>Localstack</mark> in the event listeners. In the front-end testing part we use <mark>BackstopJS</mark> and <mark>Selenium</mark>.As databases we use <mark>PostgreSQL</mark>, <mark>Oracle</mark> and <mark>DynamoDB</mark>, and <mark>Grafana</mark> and <mark>ELK Stack</mark> as monitoring systems.
 
 
 - company: Tecnilogica (Now Liquid Squad at Accenture Digital)
